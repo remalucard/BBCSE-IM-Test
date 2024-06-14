@@ -20,6 +20,7 @@ no clue
 * Rouzel
 * Dormin
 * NeoStrayCat
+* TheDukeOfErl
 * Everybody in the BlazBlue PC community that has given support or feedback of any kind!
 
 ## Extra thanks to
