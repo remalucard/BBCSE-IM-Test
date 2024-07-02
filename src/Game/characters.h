@@ -14,7 +14,6 @@ enum CharIndex
 	CharIndex_Bang8,
 	CharIndex_Carl,
 	CharIndex_Hakumen,
-	CharIndex_Nu,
 	CharIndex_Tsubaki,
 	CharIndex_Hazama,
 	CharIndex_Mu,
@@ -22,23 +21,6 @@ enum CharIndex
 	CharIndex_Valkenhayn,
 	CharIndex_Platinum,
 	CharIndex_Relius,
-	CharIndex_Izayoi,
-	CharIndex_Amane,
-	CharIndex_Bullet,
-	CharIndex_Azrael,
-	CharIndex_Kagura,
-	CharIndex_Kokonoe,
-	CharIndex_Terumi,
-	CharIndex_Celica,
-	CharIndex_Lambda,
-	CharIndex_Hibiki,
-	CharIndex_Nine,
-	CharIndex_Naoto,
-	CharIndex_Izanami,
-	CharIndex_Susanoo,
-	CharIndex_Es,
-	CharIndex_Mai,
-	CharIndex_Jubei
 };
 
 int getCharactersCount();

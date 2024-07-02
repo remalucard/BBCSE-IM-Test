@@ -15,31 +15,14 @@ const std::vector<std::string> charNames
 	"Bang",			//08
 	"Carl",			//09
 	"Hakumen",		//10
-	"Nu",			//11
+	"Lambda",		//11
 	"Tsubaki",		//12
 	"Hazama",		//13
 	"Mu",			//14
 	"Makoto",		//15
 	"Valkenhayn",	//16
 	"Platinum",		//17
-	"Relius",		//18
-	"Izayoi",		//19
-	"Amane",		//20
-	"Bullet",		//21
-	"Azrael",		//22
-	"Kagura",		//23
-	"Kokonoe",		//24
-	"Terumi",		//25
-	"Celica",		//26
-	"Lambda",		//27
-	"Hibiki",		//28
-	"Nine",			//29
-	"Naoto",		//30
-	"Izanami",		//31
-	"Susanoo",		//32
-	"Es",			//33
-	"Mai",			//34
-	"Jubei"			//35
+	"Relius"
 };
 
 int getCharactersCount()
